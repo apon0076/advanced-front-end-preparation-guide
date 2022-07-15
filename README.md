@@ -1,4 +1,4 @@
-# Advanced-Front-End-Preparation
+# Advanced Front End Preparation
 HTML
 Semantic HTML
 HTML Sanitization
