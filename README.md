@@ -1,60 +1,29 @@
-# Advanced Front End Preparation
-HTML
-Semantic HTML
-HTML Sanitization
-HTML5 Latest Tag
-CSS
-Flexbox
-Grid
-SCSS
-Naming Convention
-BEM
-ABEM
-Folder Structure
-ITCSS
-Modular CSS
-Object Oriented CSS
-Web Accessibilities
-W3C Validation
-JavaScript
-How JavaScript Work
-Context API
-Event Loop
-DOM Manipulation
-Asynchronous JavaScript
-Callback
-Promese
-Async / Await
-Testing
-Unit Testing
-JEST
-React Testing Library
-Integration Testing
-JEST
-React Testing Library
-E2E Testing
-Puppeteer JS
-Playwright
-ReactJS
-How React JS Work
-How Virtual DOM Actually Work
-What is ReactJS Fibar
-ReactJS Packages
-State Management
-Story Book
-React Query
-MaterialUI
-TypeScript
-Data Structure and Algorithm
-Complexity Analysis
-Time Complexity
-Space Complexity
-Data Structure
-Linear Data Structure
-Non-Linear Data Structure
-Algorithm
-Searching
-Sorting
-Tree
-Graph
-Dynamic Programming
+# Advanced Front End Preparation Guide
+
+- [HTML](#html)
+    - [Semantic HTML](#semantic-html) 
+    - [HTML Sanitization](#html-sanitization)
+    - [HTML5 Latest Tag](#html5-latest-tag)
+    
+ - [CSS](#css)
+    - [Flexbox](#flexbox)
+    - [Grid](#grid)
+    - [SCSS](#scss)
+    - [Naming Convention](#naming-convention)
+        - [BEM](#bem)
+        - [ABEM](#abem)
+    - [Folder Structure](#folder-structure)
+        - [ITCSS](#itcss)
+    - [Modular CSS](#modular-css)
+    - [Object Oriented CSS](#object-oriented-css)
+        
+ ## HTML
+ - ### Semantic HTML
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    
+ - ### HTML Sanitization
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    
+ - ### HTML5 Latest Tag
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+ 
