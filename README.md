@@ -2,7 +2,9 @@
     Table of Content
 - [HTML](#html)
     - [Semantic HTML](#semantic-html)  
-        Q1. [What are Semantic Elements?](#what-are-semantic-elements) 
+        Q1. [What are Semantic Elements?](#what-are-semantic-elements)  
+        Q2. [Examples of Some Semantic Elements.](#examples-of-some-semantic-elements)  
+        Q3. [Why Should We Use Semantic Tags Instead of Generic Tags?](#why-should-we-use-semantic-tags-instead-of-generic-tags)
     - [HTML Sanitization](#html-sanitization)
     - [HTML5 Latest Tag](#html5-latest-tag)
  - [CSS](#css)
@@ -70,6 +72,30 @@
     Examples of semantic elements: ```<form>, <table>, and <article>``` - Clearly defines its content.  
     
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+    
+ 2. ### Examples of Some Semantic Elements.
+    ```
+    <article>
+    <aside>
+    <details>
+    <figcaption>
+    <figure>
+    <footer>
+    <header>
+    <main>
+    <mark>
+    <nav>
+    <section>
+    <summary>
+    <time>    
+    ```
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+    
+ 3. ### Why Should We Use Semantic Tags Instead of Generic Tags?
+    Semantic tags provide meaning to the content they contain, whereas generic tags do not. This meaning can be interpreted by both humans and machines, which can be helpful in a number of ways. For example, screen readers can use the semantic information in a document to provide a more meaningful experience for blind or visually impaired users. Search engines can also use semantic information to provide more relevant results for users. In general, using semantic tags makes your HTML code more understandable and easier to work with.
+    
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+   
     
     
  - ### HTML Sanitization
