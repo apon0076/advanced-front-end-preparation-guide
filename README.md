@@ -1,8 +1,8 @@
 # Advanced Front End Preparation Guide
     Table of Content
 - [HTML](#html)
-    - [Semantic HTML](#semantic-html) 
-        - Q1:  [What is React?](#what-is-react)
+    - [Semantic HTML](#semantic-html)  
+        Q1. [What are Semantic Elements?](#what-are-semantic-elements) 
     - [HTML Sanitization](#html-sanitization)
     - [HTML5 Latest Tag](#html5-latest-tag)
  - [CSS](#css)
@@ -64,13 +64,15 @@
         
  ## HTML
  - ### Semantic HTML
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+ 1. ### What are Semantic Elements?
+    A semantic element clearly describes its meaning to both the browser and the developer.  
+    Examples of non-semantic elements: ```<div> and <span>``` - Tells nothing about its content.  
+    Examples of semantic elements: ```<form>, <table>, and <article>``` - Clearly defines its content.  
+    
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+    
     
  - ### HTML Sanitization
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     
- - ### HTML5 Latest Tag
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an    unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    
-**[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+
  
