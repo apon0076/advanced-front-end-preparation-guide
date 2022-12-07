@@ -131,7 +131,7 @@
 
     There are two different HTML sanitization implementations:
 
-    i) Client-side sanitization: prevents unsafe content from the DOM level
+    i) Client-side sanitization: prevents unsafe content from the DOM level  
     ii) Server-side sanitization: prevents the storage of malicious HTML content in databases
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
