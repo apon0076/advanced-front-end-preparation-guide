@@ -8,6 +8,7 @@
         Q4. [How Semantic HTML Helps in SEO?](#how-semantic-html-helps-in-seo)  
         Q5. [How Semantic HTML Helps in Accessibility?](#how-semantic-html-helps-in-accessibility)  
     - [HTML Sanitization](#html-sanitization)
+        Q6. [What is HTML Sanitization?](#what-is-html-sanitization)  
     - [HTML5 Latest Tag](#html5-latest-tag)
  - [CSS](#css)
     - [Flexbox](#flexbox)
@@ -103,8 +104,13 @@
     
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
- 4. ### How Semantic HTML Helps in Accessibility?
+ 5. ### How Semantic HTML Helps in Accessibility?
     Semantic HTML gives context to screen readers, which read the contents of a page out loud. With the button example in mind: buttons have more suitable styling by default. a screen reader identifies it as a button.
+    
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+
+ 6. ### What is HTML Sanitization?
+    HTML sanitization generally refers to removing potentially malicious JavaScript content from raw HTML strings
     
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
    
