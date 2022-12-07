@@ -149,7 +149,8 @@
         Node.js, and as a command-line tool
 
         iii) sanitize-html: An htmlparser2-based sanitizer library for Node.js and 
-        browser that’s very popular among React developers because there is a wrapper library especially for React
+        browser that’s very popular among React developers because there is a 
+         wrapper library especially for React
 
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
