@@ -143,11 +143,11 @@
 
     Web developers tend to use the following libraries for client-side/DOM-level sanitization:  
 
-        i) DOMPurity: HTML sanitizer library for JavaScript that also works on server-side Node.js via the jsdom package
+        i) DOMPurity HTML sanitizer library for JavaScript that also works on server-side Node.js via the jsdom package
 
-        ii) js-xss: An HTML sanitizer library that works on browser, server-side Node.js, and as a command-line tool
+        ii) js-xss An HTML sanitizer library that works on browser, server-side Node.js, and as a command-line tool
 
-        iii) sanitize-html: An htmlparser2-based sanitizer library for Node.js and browser that’s very popular among React developers because there is a wrapper library especially for React
+        iii) sanitize-html An htmlparser2-based sanitizer library for Node.js and browser that’s very popular among React developers because there is a wrapper library especially for React
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
