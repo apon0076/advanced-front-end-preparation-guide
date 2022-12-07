@@ -12,7 +12,7 @@
   - [HTML Sanitization](#html-sanitization)  
      Q6. [What is HTML Sanitization?](#what-is-html-sanitization)  
      Q7. [Types of HTML Sanitization](#types-of-html-sanitization)  
-     Q8. [Name Some Libraries for Clients Side Sanitization?](#name-some-libraries-for-clients-side-sanitization)
+     Q8. [Name Some Libraries for Clients Side Sanitization](#name-some-libraries-for-clients-side-sanitization)
     <!-- Q8. [Name Some Libraries for Clients Side Sanitization?](#name-some-libraries-for-clients-side-sanitization) -->
   - [HTML5 Latest Tag](#html5-latest-tag)
     <!-- Q7. [What is HTML5?](#what-is-html5) -->
@@ -141,12 +141,8 @@
 
 8.  ### Name Some Libraries for Clients Side Sanitization
 
-    There are two different HTML sanitization implementations:
-
-    i) Client-side sanitization: prevents unsafe content from the DOM level  
-    ii) Server-side sanitization: prevents the storage of malicious HTML content in databases
-
-    We indeed need to use both sanitization layers to prevent XSS vulnerabilities. If your database is affected by malicious XSS payloads, the client-side sanitization layer will protect all application users, but if an attacker sends malicious HTML directly from the RESTful API, server-side sanitization will protect the system.
+    Web developers tend to use the following libraries for client-side/DOM-level sanitization:
+      1.ffff
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
