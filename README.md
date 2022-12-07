@@ -10,7 +10,7 @@
      Q4. [How Semantic HTML Helps in SEO?](#how-semantic-html-helps-in-seo)  
      Q5. [How Semantic HTML Helps in Accessibility?](#how-semantic-html-helps-in-accessibility)
   - [HTML Sanitization](#html-sanitization)  
-     Q6. [What is HTML Sanitization?](#what-is-html-sanitization)
+     Q6. [What is HTML Sanitization?](#what-is-html-sanitization)  
     Q7. [Types of HTML Sanitization](#types-of-html-sanitization)
   - [HTML5 Latest Tag](#html5-latest-tag)  
     Q7. [What is HTML5?](#what-is-html5)
