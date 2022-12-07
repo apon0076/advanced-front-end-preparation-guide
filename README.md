@@ -142,7 +142,8 @@
 8.  ### Name Some Libraries for Clients Side Sanitization
 
     Web developers tend to use the following libraries for client-side/DOM-level sanitization:  
-        1.ffff
+
+        i) `DOMPurity`: HTML sanitizer library for JavaScript that also works on server-side Node.js via the `jsdom` package.
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
