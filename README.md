@@ -5,7 +5,8 @@
         Q1. [What are Semantic Elements?](#what-are-semantic-elements)  
         Q2. [Examples of Some Semantic Elements.](#examples-of-some-semantic-elements)  
         Q3. [Why Should We Use Semantic Tags Instead of Generic Tags?](#why-should-we-use-semantic-tags-instead-of-generic-tags)  
-        Q4. [How Semantic HTML Helps in SEO?](#how-semantic-html-helps-in-seo)
+        Q4. [How Semantic HTML Helps in SEO?](#how-semantic-html-helps-in-seo)  
+        Q5. [How Semantic HTML Helps in Accessibility?](#how-semantic-html-helps-in-accessibility)  
     - [HTML Sanitization](#html-sanitization)
     - [HTML5 Latest Tag](#html5-latest-tag)
  - [CSS](#css)
@@ -98,6 +99,11 @@
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
     
  4. ### How Semantic HTML Helps in SEO?
+    Semantic HTML refers to syntax that makes the HTML more comprehensible by better defining the different sections and layout of web pages. It makes web pages more informative and adaptable, allowing browsers and search engines to better interpret content
+    
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+
+ 4. ### How Semantic HTML Helps in Accessibility?
     Semantic HTML refers to syntax that makes the HTML more comprehensible by better defining the different sections and layout of web pages. It makes web pages more informative and adaptable, allowing browsers and search engines to better interpret content
     
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
