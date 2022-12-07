@@ -12,6 +12,7 @@
   - [HTML Sanitization](#html-sanitization)  
      Q6. [What is HTML Sanitization?](#what-is-html-sanitization)
   - [HTML5 Latest Tag](#html5-latest-tag)
+    Q7. [What is HTML5?](#what-is-html5)
 - [CSS](#css)
   - [Flexbox](#flexbox)
   - [Grid](#grid)
@@ -121,5 +122,12 @@
 6.  ### What is HTML Sanitization?
 
     HTML sanitization generally refers to removing potentially malicious JavaScript content from raw HTML strings.
+
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+
+7.  ### What is HTML5?
+
+    HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final[3] major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard. 
+    It is maintained by the Web Hypertext Application Technology Working Group (WHATWG), a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft). It was initially released on 22 January 2008.
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
