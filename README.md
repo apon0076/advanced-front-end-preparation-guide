@@ -11,8 +11,8 @@
      Q5. [How Semantic HTML Helps in Accessibility?](#how-semantic-html-helps-in-accessibility)
   - [HTML Sanitization](#html-sanitization)  
      Q6. [What is HTML Sanitization?](#what-is-html-sanitization)  
-     Q7. [Types of HTML Sanitization](#types-of-html-sanitization)
-    Q8. [Name Some Libraries for Clients Side Sanitization?](#name-some-libraries-for-clients-side-sanitization)
+     Q7. [Types of HTML Sanitization](#types-of-html-sanitization)  
+     Q8. [Name Some Libraries for Clients Side Sanitization?](#name-some-libraries-for-clients-side-sanitization)
     <!-- Q8. [Name Some Libraries for Clients Side Sanitization?](#name-some-libraries-for-clients-side-sanitization) -->
   - [HTML5 Latest Tag](#html5-latest-tag)
     <!-- Q7. [What is HTML5?](#what-is-html5) -->
