@@ -104,7 +104,7 @@
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
  4. ### How Semantic HTML Helps in Accessibility?
-    Semantic HTML refers to syntax that makes the HTML more comprehensible by better defining the different sections and layout of web pages. It makes web pages more informative and adaptable, allowing browsers and search engines to better interpret content
+    Semantic HTML gives context to screen readers, which read the contents of a page out loud. With the button example in mind: buttons have more suitable styling by default. a screen reader identifies it as a button.
     
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
    
