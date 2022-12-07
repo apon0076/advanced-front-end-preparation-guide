@@ -120,6 +120,6 @@
 
 6.  ### What is HTML Sanitization?
 
-    HTML sanitization generally refers to removing potentially malicious JavaScript content from raw HTML strings
+    HTML sanitization generally refers to removing potentially malicious JavaScript content from raw HTML strings.
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
