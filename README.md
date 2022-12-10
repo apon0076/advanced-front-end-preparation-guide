@@ -192,7 +192,12 @@
 
     The following tags (elements) have been introduced in `HTML5` :
 
-    1. `<article>` - dfhgdhfghdfgh fgihdfghd fg
-    2. `<aside >` - ggg fgihdfghd fg
+    1. `<article>` - Represents an independent piece of content of a document, such as a blog entry or newspaper article
+    2. `<aside >` - Represents a piece of content that is only slightly related to the rest of the page
+    3. `<audio>` - Defines an audio file.
+    4. `<canvas>` - This is used for rendering dynamic bitmap graphics on the fly, such as graphs or games.
+    5. `<command>` - Represents a command the user can invoke.
+    6. `<datalist>` - Together with the a new list attribute for input can be used to make comboboxes.
+    7. `<details>` - Represents additional information or controls which the user can obtain on demand.
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
