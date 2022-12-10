@@ -193,11 +193,14 @@
     The following tags (elements) have been introduced in `HTML5` :
 
     <table>
-    <tr>
-    <th>
-    ddd
-    </th>
-    </tr>
+      <tr>
+        <th>
+          Tags (Elements)
+        </th>
+          <th>
+            Description
+          </th>
+      </tr>
     </table>
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
