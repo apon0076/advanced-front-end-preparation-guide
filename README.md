@@ -202,8 +202,12 @@
       </th>
       </tr>
       <tr>
-      <td>a</td>
-      <td>a</td>
+      <td>
+        `<article>`
+      </td>
+      <td>
+        Represents an independent piece of content of a document, such as a blog entry or newspaper article
+      </td>
       </tr>
     </table>
 
