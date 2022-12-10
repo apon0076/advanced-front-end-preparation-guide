@@ -190,8 +190,14 @@
 
 11. ### Latest Tags of HTML5?
 
-        The following tags (elements) have been introduced in `HTML5` :
+    The following tags (elements) have been introduced in `HTML5` :
 
-    | 1 | [What is React?](#what-is-react)
+    <table>
+    <tr>
+    <th>
+    ddd
+    </th>
+    </tr>
+    </table>
 
-        **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
