@@ -192,23 +192,7 @@
 
     The following tags (elements) have been introduced in `HTML5` :
 
-    <table>
-      <tr>
-      <th>
-          Tags (Elements)
-      </th>
-      <th>
-            Description
-      </th>
-      </tr>
-      <tr>
-      <td>
-        <article>
-      </td>
-      <td>
-        Represents an independent piece of content of a document, such as a blog entry or newspaper article
-      </td>
-      </tr>
-    </table>
+    1. `aaa` - dfhgdhfghdfgh fgihdfghd fg
+    2. `bbb` - ggg fgihdfghd fg
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
