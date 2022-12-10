@@ -16,7 +16,7 @@
   - [HTML5 Latest Tag](#html5-latest-tag)  
      Q9. [What is HTML5?](#what-is-html5)  
      Q10. [New Features of HTML5?](#new-features-of-html5)  
-     Q11. [New Tags of HTML5?](#new-tags-of-html5)
+     Q11. [Latest Tags of HTML5?](#latest-tags-of-html5)
 - [CSS](#css)
   - [Flexbox](#flexbox)
   - [Grid](#grid)
@@ -188,7 +188,7 @@
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
-11. ### New Tags of HTML5?
+11. ### Latest Tags of HTML5?
 
     A lots of new tags has been released with `HTML5` few of them mentioned bellow:
 
