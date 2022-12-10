@@ -194,12 +194,16 @@
 
     <table>
       <tr>
-        <th>
+      <th>
           Tags (Elements)
-        </th>
-          <th>
+      </th>
+      <th>
             Description
-          </th>
+      </th>
+      </tr>
+      <tr>
+      <td>a</td>
+      <td>a</td>
       </tr>
     </table>
 
