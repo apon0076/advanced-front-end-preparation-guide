@@ -192,7 +192,7 @@
 
     The following tags (elements) have been introduced in `HTML5` :
 
-    1. `aaa` - dfhgdhfghdfgh fgihdfghd fg
-    2. `bbb` - ggg fgihdfghd fg
+    1. `<article>` - dfhgdhfghdfgh fgihdfghd fg
+    2. `<aside >` - ggg fgihdfghd fg
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
