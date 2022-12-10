@@ -192,7 +192,7 @@
 
     The following tags (elements) have been introduced in `HTML5` :
 
-    1. `<article>` - Represents an independent piece of content of a document, such as a blog entry or newspaper article
+    1. `<article>` - Represents an independent piece of content of a document, such as a blog or newspaper article
     2. `<aside >` - Represents a piece of content that is only slightly related to the rest of the page
     3. `<audio>` - Defines an audio file.
     4. `<canvas>` - This is used for rendering dynamic bitmap graphics on the fly, such as graphs or games.
