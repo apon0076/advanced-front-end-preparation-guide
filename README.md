@@ -15,7 +15,8 @@
      Q8. [Name Some Libraries for Clients Side Sanitization](#name-some-libraries-for-clients-side-sanitization)
   - [HTML5 Latest Tag](#html5-latest-tag)  
      Q9. [What is HTML5?](#what-is-html5)  
-     Q10. [New Features of HTML5?](#new-features-of-html5)
+     Q10. [New Features of HTML5?](#new-features-of-html5)  
+     Q11. [New Tags of HTML5?](#new-tags-of-html5)
 - [CSS](#css)
   - [Flexbox](#flexbox)
   - [Grid](#grid)
@@ -184,5 +185,11 @@
     ix) `Microdata` − This lets you create your own vocabularies beyond HTML5 and extend your web pages with custom semantics.
 
     x) `Drag and drop` − Drag and drop the items from one location to another location on the same webpage.
+
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+
+11. ### New Tags of HTML5?
+
+    A lots of new tags has been released with `HTML5` few of them mentioned bellow:
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
