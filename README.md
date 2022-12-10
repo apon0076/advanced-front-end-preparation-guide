@@ -192,24 +192,24 @@
 
     The following tags (elements) have been introduced in `HTML5` :
 
-    1. `<article>` - Represents an independent piece of content of a document, such as a blog or newspaper
-    2. `<aside >` - Represents a piece of content that is only slightly related to the rest of the page
-    3. `<audio>` - Defines an audio file.
-    4. `<canvas>` - This is used for rendering dynamic bitmap graphics on the fly, such as graphs or games.
-    5. `<command>` - Represents a command the user can invoke.
+    1. `<article>`  - Represents an independent piece of content of a document, such as a blog or newspaper
+    2. `<aside>`    - Represents a piece of content that is only slightly related to the rest of the page
+    3. `<audio>`    - Defines an audio file.
+    4. `<canvas>`   - This is used for rendering dynamic bitmap graphics on the fly, such as graphs or games.
+    5. `<command>`  - Represents a command the user can invoke.
     6. `<datalist>` - Together with the a new list attribute for input can be used to make comboboxes.
-    7. `<details>` - Represents additional information or controls which the user can obtain on demand.
-    8. `<embed>` - Defines external interactive content or plugin.
-    9. `<figure>` - Represents a piece of self-contained flow content, typically referenced as a single unit from the main flow of the document.
-    10. `<footer>` - Represents a footer for a section and can contain information about the author, copyright information, et cetera.
-    11. `<header>` - Represents a group of introductory or navigational aids.
-    12. `<hgroup>` - Represents the header of a section.
-    13. `<keygen>` - Represents control for key pair generation.
-    14. `<mark>` - Represents a run of text in one document marked or highlighted for reference purposes, due to its relevance in another context.
-    15. `<meter>` - Represents a measurement, such as disk usage.
-    16. `<nav>` - Represents a section of the document intended for navigation.
-    17. `<output>` - Represents some type of output, such as from a calculation done through scripting.
-    18. `<progress>` - Represents a completion of a task, such as downloading or when performing a series of expensive operations.
-    19. `<ruby>` - Together with `<rt>` and `<rp>` allow for marking up ruby annotations.
+    7. `<details>`  - Represents additional information or controls which the user can obtain on demand.
+    8. `<embed>`    - Defines external interactive content or plugin.
+    9. `<figure>`   - Represents a piece of self-contained flow content, typically referenced as a single unit from the main flow of the document.
+    10. `<footer>`  - Represents a footer for a section and can contain information about the author, copyright information, et cetera.
+    11. `<header>`  - Represents a group of introductory or navigational aids.
+    12. `<hgroup>`  - Represents the header of a section.
+    13. `<keygen>`  - Represents control for key pair generation.
+    14. `<mark>`    - Represents a run of text in one document marked or highlighted for reference purposes, due to its relevance in another context.
+    15. `<meter>`   - Represents a measurement, such as disk usage.
+    16. `<nav>`     - Represents a section of the document intended for navigation.
+    17. `<output>`  - Represents some type of output, such as from a calculation done through scripting.
+    18. `<progress>`- Represents a completion of a task, such as downloading or when performing a series of expensive operations.
+    19. `<ruby>`    - Together with `<rt>` and `<rp>` allow for marking up ruby annotations.
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
