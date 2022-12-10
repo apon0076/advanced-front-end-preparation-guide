@@ -166,25 +166,25 @@
 
     HTML5 introduces a number of new elements and attributes that can help you in building modern websites. Here is a set of some of the most prominent features introduced in HTML5
 
-    i) `New Semantic Elements` − These are like `<header>`, `<footer>`, and `<section>`.
+    1. `New Semantic Elements` − These are like `<header>`, `<footer>`, and `<section>`.
 
-    ii) `Forms 2.0` − Improvements to HTML web forms where new attributes have been introduced for `<input>` tag.
+    2. `Forms 2.0` − Improvements to HTML web forms where new attributes have been introduced for `<input>` tag.
 
-    iii) `Persistent Local Storage` − To achieve without resorting to third-party plugins.
+    3. `Persistent Local Storage` − To achieve without resorting to third-party plugins.
 
-    iv) `WebSocket` − A next-generation bidirectional communication technology for web applications.
+    4. `WebSocket` − A next-generation bidirectional communication technology for web applications.
 
-    v) `Server-Sent Events` − HTML5 introduces events which flow from web server to the web browsers and they are called Server-Sent Events (SSE).
+    5. `Server-Sent Events` − HTML5 introduces events which flow from web server to the web browsers and they are called Server-Sent Events (SSE).
 
-    vi) `Canvas` − This supports a two-dimensional drawing surface that you can program with JavaScript.
+    6. `Canvas` − This supports a two-dimensional drawing surface that you can program with JavaScript.
 
-    vii) `Audio & Video` − You can embed audio or video on your webpages without resorting to third-party plugins.
+    7. `Audio & Video` − You can embed audio or video on your webpages without resorting to third-party plugins.
 
-    viii) `Geolocation` − Now visitors can choose to share their physical location with your web application.
+    8. `Geolocation` − Now visitors can choose to share their physical location with your web application.
 
-    ix) `Microdata` − This lets you create your own vocabularies beyond HTML5 and extend your web pages with custom semantics.
+    9. `Microdata` − This lets you create your own vocabularies beyond HTML5 and extend your web pages with custom semantics.
 
-    x) `Drag and drop` − Drag and drop the items from one location to another location on the same webpage.
+    10. `Drag and drop` − Drag and drop the items from one location to another location on the same webpage.
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
