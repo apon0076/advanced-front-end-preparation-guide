@@ -13,9 +13,8 @@
      Q6. [What is HTML Sanitization?](#what-is-html-sanitization)  
      Q7. [Types of HTML Sanitization](#types-of-html-sanitization)  
      Q8. [Name Some Libraries for Clients Side Sanitization](#name-some-libraries-for-clients-side-sanitization)
-    <!-- Q8. [Name Some Libraries for Clients Side Sanitization?](#name-some-libraries-for-clients-side-sanitization) -->
   - [HTML5 Latest Tag](#html5-latest-tag)
-    <!-- Q7. [What is HTML5?](#what-is-html5) -->
+    Q9. [What is HTML5?](#what-is-html5)
 - [CSS](#css)
   - [Flexbox](#flexbox)
   - [Grid](#grid)
@@ -143,20 +142,20 @@
 
     Web developers tend to use the following libraries for client-side/DOM-level sanitization:
 
-      i) `DOMPurity`: HTML sanitizer library for JavaScript,  that also works on server-side Node.js via the `jsdom` package
+    i) `DOMPurity`: HTML sanitizer library for JavaScript, that also works on server-side Node.js via the `jsdom` package
 
-      ii) `js-xss`: An HTML sanitizer library that works on browser, server-side `Node.js`, and as a command-line tool
+    ii) `js-xss`: An HTML sanitizer library that works on browser, server-side `Node.js`, and as a command-line tool
 
-      iii) `sanitize-html`: An htmlparser2-based sanitizer library for `Node.js` and browser that’s very popular among React developers because there is a wrapper library especially for React
+    iii) `sanitize-html`: An htmlparser2-based sanitizer library for `Node.js` and browser that’s very popular among React developers because there is a wrapper library especially for React
 
-      These libraries typically parse unsafe HTML using either the browser’s inbuilt DOM iterator, or a custom HTML parser that excludes unsafe HTML content before using `innerHTML`.
+    These libraries typically parse unsafe HTML using either the browser’s inbuilt DOM iterator, or a custom HTML parser that excludes unsafe HTML content before using `innerHTML`.
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
 
-<!-- 8.  ### What is HTML5?
+9.  ### What is HTML5?
 
     HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard.
 
     It is maintained by the Web Hypertext Application Technology Working Group (WHATWG), a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft). It was initially released on 22 January 2008.
 
-    **[⬆ Back to Top](#advanced-front-end-preparation-guide)** -->
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
