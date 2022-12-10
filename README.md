@@ -192,9 +192,6 @@
 
         The following tags (elements) have been introduced in `HTML5` :
 
-        | Tags (Elements) | Description                                                                                                                                                                                                                        |
-
-    | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | 1 | [What is React?](#what-is-react)
 
         **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
