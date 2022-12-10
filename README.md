@@ -14,7 +14,8 @@
      Q7. [Types of HTML Sanitization](#types-of-html-sanitization)  
      Q8. [Name Some Libraries for Clients Side Sanitization](#name-some-libraries-for-clients-side-sanitization)
   - [HTML5 Latest Tag](#html5-latest-tag)  
-     Q9. [What is HTML5?](#what-is-html5)
+     Q9. [What is HTML5?](#what-is-html5)  
+     Q10. [New Features of HTML5?](#new-features-of-html5)
 - [CSS](#css)
   - [Flexbox](#flexbox)
   - [Grid](#grid)
@@ -157,5 +158,11 @@
     HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard.
 
     It is maintained by the Web Hypertext Application Technology Working Group (WHATWG), a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft). It was initially released on 22 January 2008.
+
+    **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
+
+10. ### New Features of HTML5?
+
+    HTML5 introduces a number of new elements and attributes that can help you in building modern websites. Here is a set of some of the most prominent features introduced in HTML5
 
     **[⬆ Back to Top](#advanced-front-end-preparation-guide)**
